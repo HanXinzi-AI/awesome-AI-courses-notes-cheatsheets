@@ -24,11 +24,7 @@
 ### (b)
 
 (i) 
-$$
-\begin{aligned}
-\mathbb{E}_{p_{\text {drop }}}\left[\mathbf{h}_{\text {drop}}\right]_{i}
-&=\gamma (1- p_{\text{drop}}) h_i \\ 
-&=h_{i}
+![](http://latex.codecogs.com/svg.latex?\begin{aligned}\mathbb{E}_{p_{\text {drop }}}\left[\mathbf{h}_{\text {drop}}\right]_{i}&=\gamma (1- p_{\text{drop}}) h_i \\ &=h_{i})
 
 \end{aligned}
 $$
